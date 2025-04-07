@@ -1,4 +1,4 @@
-# SCM_HW1_-Hamas-
+# SCM_HW1_Hamas
 This repository is for SWE 442 Homework 1 on Software Configuration Management.
 # Best Practices in Software Configuration Management:
 - Ensure version control is consistently applied across all codebases.
